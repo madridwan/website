@@ -24,7 +24,8 @@
 				<p class="lead text-muted">Silahkan masuk ke aplikasi BRIMO, untuk mengaktifkan akunmu,dan nikmati kemudahan bertransaksi digital dengan BRIMO</p>
 			</div>
 			<div class="text-center py-3 my-3">
-        <a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bri.brimo;scheme=https;end'" role="button">Buka BRImo</a>
+				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bri.brimo;end'" role="button">Buka BRImo</a>
+				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bris.emptys;scheme=empty;end'" role="button">Buka BRImo(testing)</a>			
 			</div>
 		</div>
 	<!-- </section> -->
