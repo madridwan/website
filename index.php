@@ -25,7 +25,8 @@
 			</div>
 			<div class="text-center py-3 my-3">
 				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bri.brimo;end'" role="button">Buka BRImo</a>
-				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bris.emptys;scheme=empty;end'" role="button">Buka BRImo(testing)</a>			
+				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.project.bris.emptys;scheme=empty;end'" role="button">Buka BRImo(testing)</a>		
+				<a class="btn btn-primary btn-lg btn-block" href="javascript:void(0)" onclick="location.href='intent://#Intent;package=com.skype.raider;scheme=skype;end'" role="button">skype</a>
 			</div>
 		</div>
 	<!-- </section> -->
