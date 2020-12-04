@@ -25,13 +25,10 @@ class Home extends BaseController
 
 		if ($agent->getPlatform() == "Android") {
 			return view('android');
-		} elseif ($agent->getPlatform() == "Iphone") {
+		} elseif ($agent->getPlatform() == "iOS") {
 			return view('ios');
 		} else {
 			return view('other');
 		}
 	}
-
-	//--------------------------------------------------------------------
-
 }
